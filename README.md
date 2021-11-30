@@ -21,9 +21,9 @@ https://www.kaggle.com/imakash3011/customer-personality-analysis
        4. Association rules
 
 ## Technologies Used :
-        **Python** : main programming language
-        **Flask** : as python framework
-        **WTF forms** :  to create forms
-        **sklearn** :  to perform machine learning operations
-        **Numpy** : to perform scientific computing in python
-        **Pandas** : as data analysis and manipulation tool
+       Python : main programming language
+       Flask : as python framework
+       WTF forms :  to create forms
+       sklearn :  to perform machine learning operations
+       Numpy : to perform scientific computing in python
+       Pandas: as data analysis and manipulation tool
