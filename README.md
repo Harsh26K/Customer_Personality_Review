@@ -12,7 +12,7 @@ The website contains two sections -
       This sections takes dataset from the user and provides data about the association of the different products based on the customers purchasing habits. The dataset with the association rule info. of the selected product will be returned. This section will help company to know the potential targets for the marketing of the product.
 
 ## Dataset Used:
-https://www.kaggle.com/imakash3011/customer-personality-analysis
+[dataset](https://www.kaggle.com/imakash3011/customer-personality-analysis)
 
 ## Algorithms Used:
        1. K-means clustering
